@@ -106,3 +106,4 @@ const obj = {
 arr1.splice(1,1);
 delete obj.a;
 console.log(arr1, obj);
+
